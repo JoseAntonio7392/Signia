@@ -11,4 +11,5 @@ Facilitar la comunicación entre personas sordas/mudas y oyentes en entornos com
 
 ## Equipo
 - José Antonio
-- [Nombre de tu compañera]
+- Itzel Guadalupe
+- 
